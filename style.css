@@ -7,29 +7,17 @@ body {
     font-family: 'Rubik', sans-serif;
     padding: 0px;
     margin: 0px;
-
-
 }
 
-
-
 .banner {
-
     background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, .2), rgba(0, 0, 0, .1), rgba(0, 0, 0, 0)), url(image/goru.png);
-
-
-
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     height: 100vh;
-
     color: white;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
-
-
-
 }
 
 .banner-text {
@@ -48,7 +36,6 @@ body {
     font-size: 20px;
     font-weight: 500;
     color: gray;
-
 }
 
 .btn {
@@ -67,17 +54,12 @@ body {
 
 .vdu-part {
     display: flex;
-
 }
-
 
 video {
     height: 110vh;
     width: 60%;
     margin-left: 180px;
-
-
-
 }
 
 .imageee img {
@@ -120,8 +102,6 @@ video {
 .pic {
     width: 90%;
     margin: 140px 0px 0px 110px;
-
-
 }
 
 .pic img {
@@ -129,7 +109,6 @@ video {
     width: 30%;
     margin-left: 15px;
     border-radius: 20px;
-
 }
 
 .i8 {
@@ -143,28 +122,21 @@ video {
     border-left: 1px solid grey;
     border-right: 1px solid grey;
     border-radius: 10px;
-
-
     margin-left: 70px;
 }
 
 .zakat-image img {
     width: 100%;
-
     height: 35vh;
     border-top: 0px solid transparent;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-
-
 }
-
 
 .zk-area {
     width: 90%;
     margin-bottom: 70px;
     margin-left: 50px;
-
 }
 
 .zakat-article {
@@ -181,7 +153,6 @@ a {
 footer {
     background-color: black;
     color: white;
-
     padding: 30px 0px 30px 60px;
     text-align: center;
     font-size: 15px;
