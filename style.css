@@ -50,16 +50,16 @@ body {
 
 .vdu-article {
     padding: 350px 0px 0px 140px;
+
 }
 
 .vdu-part {
     display: flex;
 }
 
-video {
-    height: 110vh;
-    width: 60%;
-    margin-left: 180px;
+.video {
+    margin: 210px 130px 0px 120px;
+
 }
 
 .imageee img {
